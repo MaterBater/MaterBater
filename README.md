@@ -10,9 +10,7 @@ About Me
 
 My website is Psycho.info
 
-
-![image](https://user-images.githubusercontent.com/100362062/205495863-ce44e2ea-ddcb-43ab-b5ef-fa1dfe27a4e6.png)
-
+https://raw.githubusercontent.com/xFGhoul/xFGhoul/9f36636aacc5a564d06067821fa82fcf93178f9d/github-contribution-grid-snake.svg
 
 <!--
 **CheatingAndLeaking/Cheatingandleaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
