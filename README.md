@@ -39,75 +39,72 @@ Intellj
 They laugh at me because I’m different. 
 I laugh at them because they are all the same
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
+‎
 
-.
-
-.
 
 Don't hide the fact that you're different.
 
