@@ -16,6 +16,8 @@ ________________________________________________________________________________
 
 📖 I am addicted to popcorn and is most likely in the future going to be a serial killer!
 
+Member of the nn$clan
+
 My website is Psycho.info
 _________________________________________________________________________________________________
 • Languages
