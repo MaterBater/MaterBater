@@ -10,6 +10,15 @@ About Me
 
 My website is Psycho.info
 
+• Languages
+Java, python a little bit of batch and a little bit of js
+
+
+• Tools
+
+Visual Studio 
+Intellj
+
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/100362062/205496947-d5bc73ca-c94d-49b2-ac42-edbd7729db17.svg)
 
 
