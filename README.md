@@ -69,6 +69,11 @@ I laugh at them because they are all the same
 
 
 
+
+
+Don't hide the fact that you're different.
+
+
 <!--
 **CheatingAndLeaking/Cheatingandleaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
