@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 About Me
- 
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/100362062/205497103-a9bb0ef8-8edd-44a9-8e42-f05520552382.svg)
+
+
+
 
  
 💻 I am know a couple languages such as java python and a little bit of js
