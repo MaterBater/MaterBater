@@ -10,11 +10,11 @@ ________________________________________________________________________________
 ██║░░██║██████╦╝╚█████╔╝╚██████╔╝░░░██║░░░  ██║░╚═╝░██║███████╗
 ╚═╝░░╚═╝╚═════╝░░╚════╝░░╚═════╝░░░░╚═╝░░░  ╚═╝░░░░░╚═╝╚══════╝
  
-💻 I am know a couple languages such as java python and a little bit of js
+💻 I know a couple languages such as java python and a little bit of js
 
 💻 I am currently working on my own minecraft client, Gum
 
-📖 I am addicted to popcorn and is most likely in the future going to be a serial killer!
+📖 I am addicted to popcorn and is most likely in the future going to be a serial killer!🙂
 
 Member of the nn$clan
 
