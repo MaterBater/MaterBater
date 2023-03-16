@@ -1,7 +1,4 @@
 _________________________________________________________________________________________________
-![giphy](https://user-images.githubusercontent.com/100362062/205497217-7150dd80-583e-4661-9b57-56db6d501f4d.gif)
-
-_________________________________________________________________________________________________
 
 ░█████╗░██████╗░░█████╗░██╗░░░██╗████████╗  ███╗░░░███╗███████╗
 ██╔══██╗██╔══██╗██╔══██╗██║░░░██║╚══██╔══╝  ████╗░████║██╔════╝
@@ -12,9 +9,9 @@ ________________________________________________________________________________
  
 💻 I know a couple languages such as java python and a little bit of js
 
-💻 I am currently working on my own minecraft client, Gum
+💻 I am currently working on my own minecraft client, Gum.
 
-📖 I am addicted to popcorn and is most likely in the future going to be a serial killer!🙂
+📖 I am addicted to popcorn!
 
 Member of the nn$clan
 
@@ -35,9 +32,8 @@ Intellj
 
 _________________________________________________________________________________________________
 
-They laugh at me because I’m different. 
-I laugh at them because they are all the same
 
+
 ‎
 
 ‎
@@ -593,7 +589,6 @@ I laugh at them because they are all the same
 ‎
 
 
-Don't hide the fact that you're different.
 
 
 <!--
